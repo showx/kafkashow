@@ -1,0 +1,13 @@
+# Binaries
+kafkashow
+kafkashow.exe
+*.exe
+
+# Go
+/vendor/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
